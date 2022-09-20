@@ -16,3 +16,8 @@ My My Tran
 ## Activity 5
 ![](images/Activity5-1.png)
 ![](images/Activity5-2.png)
+
+## Activity 6
+[Link to My My's EP Repo](https://github.com/mymyxtran/ECE444-F2022-EP)
+
+
