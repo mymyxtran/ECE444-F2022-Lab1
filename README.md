@@ -1,5 +1,5 @@
 # ECE444-F2022-Lab1
-###My My Tran ![](image/rilakumma.png)
+### My My Tran ![](images/rilakumma.png)
 ## Activity 1
 ![](images/Activity1.png)
 
