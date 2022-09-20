@@ -1,5 +1,6 @@
 # ECE444-F2022-Lab1
-My My Tran 
+###My My Tran 
+September 20, 2022 
 ## Activity 1
 ![](images/Activity1.png)
 
