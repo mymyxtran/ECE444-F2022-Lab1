@@ -7,4 +7,4 @@ My My Tran
 ![](images/Activity2.png)
 
 ## Activity 3
-![](images/Activity3.png)
+![](images/Activity3-v2.png)
